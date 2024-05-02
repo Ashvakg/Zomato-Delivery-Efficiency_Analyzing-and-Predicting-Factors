@@ -14,7 +14,7 @@
 - plot_3: Scatterplot correlation time taken to deliver and road traffic density
 ![image](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/e0b77665-55d7-49b9-804e-43cecdc7042c)
 
-# Performed Machine Learning algorithms to predict time taken in minutes to deliver an order:
+# Built Machine Learning algorithms to predict time taken in minutes to deliver an order: ( Refer: Zomato_Predicted.csv to view the data and Prediction_XGBoost for the algorithm, Linearregression)
 
 - Linear Regression: with features Delivery_Person_Age, Ratings, Distance(Calculated using Haversine) Mae of 6.5
 - Random Forest: Considering Features and with RFE(Ranking top 5 feautes)  Delivery_Person_Age, Ratings, Distance (Calculated using Haversine), Road_traffic_density, Vehicle_condition, Type_of_vehicle - Mae 5.2
