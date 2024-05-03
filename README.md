@@ -1,4 +1,4 @@
-# Zomato Delivery Efficiency Insights & Predictive Analysis
+# Zomato Delivery Efficiency & Predictive Analysis
 
 # Power BI Dashboard for real-time insights
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
