@@ -1,4 +1,5 @@
-# Zomato Delivery Efficiency & Predictive Analysis
+# Delivery Efficiency & Predictive Analysis
+Note: Zomato is a food delivery platform in India, similar to Just Eat Takeaway.com and Uber Eats.
 
 # Power BI Dashboard for real-time insights
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
