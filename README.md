@@ -1,6 +1,25 @@
 # Delivery Efficiency & Predictive Analysis
 Note: Zomato is a food delivery platform in India, similar to Just Eat Takeaway.com and Uber Eats.
 
+# Delivery Time:
+The graph displays the average time taken to deliver orders across various cities, likely based on historical data. The cities are unnamed, but the average time for each city is represented by a bar.
+
+# Delivery Success Rate:
+
+Another section of the graph shows the delivery success rate, possibly categorized by month and day of the week. However, the details are difficult to discern due to the resolution.
+
+# Correlation Between Delivery Time and Road Traffic Density:
+There's a graph suggesting a correlation between delivery time and road traffic density. It appears to show higher delivery times in areas with high traffic density (Jam).
+
+# Factors Affecting Delivery Efficiency:
+
+The image presents several factors that likely influence delivery efficiency:
+Delivery location concentration (possibly order density in a specific area)
+
+# Impact on delivery efficiency by vehicle condition (fair, good, excellent, poor)
+
+# Impact on delivery efficiency by weather conditions and vehicle type (sunny, stormy, sandstorms, windy, cloudy, fog)
+
 # Power BI Dashboard for real-time insights
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
 
