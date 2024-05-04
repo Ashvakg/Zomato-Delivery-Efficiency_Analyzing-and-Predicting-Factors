@@ -2,7 +2,7 @@
 Note: Zomato is a food delivery platform in India, similar to Just Eat Takeaway.com and Uber Eats.
 
 # Delivery Time:
-The graph displays the average time taken to deliver orders across various cities, likely based on historical data. The cities are unnamed, but the average time for each city is represented by a bar.
+The graph displays the average time taken to deliver orders across various cities, likely based on historical data. For example I have selected Chennai for the month March which has 26.36, but the average time for each city is represented by a bar.
 
 # Delivery Success Rate:
 
