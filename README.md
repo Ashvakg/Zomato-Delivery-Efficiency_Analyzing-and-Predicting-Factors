@@ -1,27 +1,16 @@
 # Delivery Efficiency & Predictive Analysis
 Note: Zomato is a food delivery platform in India, similar to Just Eat Takeaway.com and Uber Eats.
 
-# Delivery Time:
-The graph displays the average time taken to deliver orders across various cities, likely based on historical data. For example I have selected Chennai for the month March which has 26.36, but the average time for each city is represented by a bar.
-
-# Delivery Success Rate:
-
-Another section of the graph shows the delivery success rate, categorized by month and day of the week. Data is available from Feb-March. 
-
-# Correlation Between Delivery Time and Road Traffic Density:
-There's a graph suggesting a correlation between delivery time and road traffic density. It appears to show higher delivery times in areas with high traffic density and there is avery strong correlation thus a linear line.
-
-# Factors Affecting Delivery Efficiency:
-
-Since there is an fluctuation in the delivery success, Let us try to analyze why this is the case. 
-**Several factors that likely influence delivery efficiency:**
-
-- Delivery location concentration (order density in a specific area)
-- Impact on delivery efficiency by vehicle condition (fair, good, excellent, poor)
-- Impact on delivery efficiency by weather conditions and vehicle type (sunny, stormy, sandstorms, windy, cloudy, fog)
-
 # Power BI Dashboard for real-time insights
+In the first half of March in Chennai, 
+- Bicycles consistently outpaced motorcycles delivery time, indicating potential issues with motorcycle condition or efficiency
+- With nearly 37% of deliveries being made by motorcycles, which are in poor condition are resulting in increased average delivery time.
+- Additionally, vehicles in better condition delivered faster, underscoring importance of regular maintenance.
+- We noted a correlation between sunny weather (usually the case in Chennai during March), higher success rates and faster deliveries.
+- Furthermore, a direct link between road traffic density and delivery time was evident, highlighting the importance of real-time traffic data for route planning.
+- The intermittent spikes and drops in delivery success rates suggest potential external factors influencing delivery performance such as traffic patterns or order volume fluctuations, warranting further investigation for optimized scheduling and resource allocation.
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
+By prioritizing bicycle usage in Chennai during sunny weather and leveraging traffic data for route optimization, we can enhance delivery efficiency and drive success rates.
 
 # Matplotlib Plots
 
