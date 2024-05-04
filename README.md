@@ -6,19 +6,19 @@ The graph displays the average time taken to deliver orders across various citie
 
 # Delivery Success Rate:
 
-Another section of the graph shows the delivery success rate, possibly categorized by month and day of the week. However, the details are difficult to discern due to the resolution.
+Another section of the graph shows the delivery success rate, categorized by month and day of the week. Data is available from Feb-March. 
 
 # Correlation Between Delivery Time and Road Traffic Density:
-There's a graph suggesting a correlation between delivery time and road traffic density. It appears to show higher delivery times in areas with high traffic density (Jam).
+There's a graph suggesting a correlation between delivery time and road traffic density. It appears to show higher delivery times in areas with high traffic density and there is avery strong correlation thus a linear line.
 
 # Factors Affecting Delivery Efficiency:
 
-The image presents several factors that likely influence delivery efficiency:
-Delivery location concentration (possibly order density in a specific area)
+Since there is an fluctuation in the delivery success, Let us try to analyze why this is the case. 
+**Several factors that likely influence delivery efficiency:**
 
-# Impact on delivery efficiency by vehicle condition (fair, good, excellent, poor)
-
-# Impact on delivery efficiency by weather conditions and vehicle type (sunny, stormy, sandstorms, windy, cloudy, fog)
+- Delivery location concentration (order density in a specific area)
+- Impact on delivery efficiency by vehicle condition (fair, good, excellent, poor)
+- Impact on delivery efficiency by weather conditions and vehicle type (sunny, stormy, sandstorms, windy, cloudy, fog)
 
 # Power BI Dashboard for real-time insights
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
