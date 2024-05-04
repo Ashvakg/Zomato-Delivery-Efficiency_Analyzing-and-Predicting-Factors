@@ -9,6 +9,7 @@ In the first half of March in Chennai,
 - We noted a correlation between sunny weather (usually the case in Chennai during March), higher success rates and faster deliveries.
 - Furthermore, a direct link between road traffic density and delivery time was evident, highlighting the importance of real-time traffic data for route planning.
 - The intermittent spikes and drops in delivery success rates suggest potential external factors influencing delivery performance such as traffic patterns or order volume fluctuations, warranting further investigation for optimized scheduling and resource allocation.
+
 **By prioritizing bicycle usage in Chennai during sunny weather and leveraging traffic data for route optimization, we can enhance delivery efficiency and drive success rates.**
 
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
