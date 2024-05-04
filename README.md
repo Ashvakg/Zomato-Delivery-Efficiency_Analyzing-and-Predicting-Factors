@@ -9,20 +9,19 @@ In the first half of March in Chennai,
 - We noted a correlation between sunny weather (usually the case in Chennai during March), higher success rates and faster deliveries.
 - Furthermore, a direct link between road traffic density and delivery time was evident, highlighting the importance of real-time traffic data for route planning.
 - The intermittent spikes and drops in delivery success rates suggest potential external factors influencing delivery performance such as traffic patterns or order volume fluctuations, warranting further investigation for optimized scheduling and resource allocation.
+**By prioritizing bicycle usage in Chennai during sunny weather and leveraging traffic data for route optimization, we can enhance delivery efficiency and drive success rates.**
 
 ![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
 
-By prioritizing bicycle usage in Chennai during sunny weather and leveraging traffic data for route optimization, we can enhance delivery efficiency and drive success rates.
-
 # Matplotlib Plots
 
-- Plot_1: Box plot showing percentage of vehicle condition and time taken in minutes
+- Plot_1: Box plot showing distribution of vehicles by vehicle condition and time taken in minutes
 ![image](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/c0a151be-96ec-4be4-bb8b-3afea0a47032)
 
 - plot_2: Top 10 Cities with shortest time taken to deliver an order
 ![image](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/a665379a-5265-4372-8820-ac7eaf4748a0)
 
-- plot_3: Scatterplot correlation time taken to deliver and road traffic density
+- plot_3: Scatterplot illustrating correlation between time taken to deliver and road traffic density
 ![image](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/e0b77665-55d7-49b9-804e-43cecdc7042c)
 
 # Machine Learning for Predictive Analysis
