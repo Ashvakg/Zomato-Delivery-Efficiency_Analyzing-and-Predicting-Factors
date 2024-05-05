@@ -12,7 +12,8 @@ In the first half of March in Chennai,
 
 **By prioritizing bicycle usage in Chennai during sunny weather and leveraging traffic data for route optimization, we can enhance delivery efficiency and drive success rates.**
 
-![dashboard final](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/27b0ff29-f4fb-4af5-b94f-15ff96abc64a)
+![zomato_Insights_page-0001](https://github.com/Ashvakg/Zomato-Delivery-Efficiency_Analyzing-and-Predicting-Factors/assets/83398283/46eea623-c5fb-4219-8c06-1021d681e441)
+
 
 # Matplotlib Plots
 
