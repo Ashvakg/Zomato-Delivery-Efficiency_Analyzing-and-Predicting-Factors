@@ -1,7 +1,7 @@
 ### Description: 
 This project aims to analyze delivery efficiency factors for Zomato, a leading food delivery platform in India, identifying key variables impacting delivery times and service quality.
 
-### 2. **Storyline:**
+### 2. **Approach:**
    - **Inception:** Initiated to optimize delivery operations and enhance customer satisfaction, the project commenced with a comprehensive analysis of available delivery data.
    - **Data Collection:** Gathered datasets encompassing delivery logs, vehicle maintenance records, weather conditions, and delivery person profiles. Utilized S3 for data ingestion and storage.
    - **Data Processing:** Cleaned and validated data using Pandas, and performed distance calculations using the Haversine formula.
@@ -21,9 +21,9 @@ This project aims to analyze delivery efficiency factors for Zomato, a leading f
      
    - **Machine Learning Models:** Utilized scikit-learn for building accurate predictive models for estimating delivery times.
      ( Refer: Zomato_Predicted.csv to view the data and Prediction_XGBoost for the algorithm, Linearregression)
-   - Linear Regression: with features Delivery_Person_Age, Ratings, Distance(Calculated using Haversine) Mae of 6.5
-   - Random Forest: Considering Features and with RFE(Ranking top 5 feautes)  Delivery_Person_Age, Ratings, Distance (Calculated using Haversine), Road_traffic_density, Vehicle_condition, Type_of_vehicle - Mae 5.2
-   - XGBoost with Considering features: Delivery_person_Age, Delivery_person_Ratings, Weather_conditions, Road_traffic_density, Vehicle_condition, Type_of_vehicle, Distance_km, City_Type, Type_of_order - Mae:4.8
+      - Linear Regression: with features Delivery_Person_Age, Ratings, Distance(Calculated using Haversine) Mae of 6.5
+      - Random Forest: Considering Features and with RFE(Ranking top 5 feautes)  Delivery_Person_Age, Ratings, Distance (Calculated using Haversine), Road_traffic_density, Vehicle_condition, Type_of_vehicle - Mae 5.2
+      - XGBoost with Considering features: Delivery_person_Age, Delivery_person_Ratings, Weather_conditions, Road_traffic_density, Vehicle_condition, Type_of_vehicle, Distance_km, City_Type, Type_of_order - Mae:4.8
    
    - **Visualization Tools:** Leveraged Matplotlib for visualizations during EDA and Power BI for more comprehensive visualizations and insights.
 
