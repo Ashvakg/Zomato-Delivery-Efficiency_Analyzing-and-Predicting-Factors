@@ -51,7 +51,7 @@ In the first half of March in Chennai,
    - Furthermore, a direct link between road traffic density and delivery time was evident, highlighting the importance of real-time traffic data for route planning.
    - The intermittent spikes and drops in delivery success rates suggest potential external factors influencing delivery performance such as traffic patterns or order volume fluctuations, warranting further investigation for optimized scheduling and resource allocation
 
-### **Next Steps:**
+### **Future Scope:**
    - **Refinement of Predictive Models:** Continuously refine predictive models and analytical techniques to improve accuracy and adapt to evolving business needs.
    - **Real-Time Monitoring:** Explore real-time monitoring capabilities to track delivery operations and adjust strategies dynamically.
    - **Delivery Optimization Strategies:** Investigate route optimization algorithms and scheduling techniques to further enhance delivery efficiency and customer satisfaction.
