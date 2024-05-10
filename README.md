@@ -36,7 +36,7 @@ This project aims to analyze delivery efficiency factors for Zomato, a leading f
    plot_3: Scatterplot illustrating correlation between time taken to deliver and road traffic density
    ![image](https://github.com/Ashvakg/Zomato-Insights/assets/83398283/e0b77665-55d7-49b9-804e-43cecdc7042c)
 
-### **Outcome/Results:**
+### **Outcomes:**
    - **Key Findings:** Identified significant factors impacting delivery efficiency, including weather conditions, traffic density, and delivery person attributes.
    - **Predictive Accuracy:** Achieved a 98% accuracy rate in predicting delivery times using machine learning models.
    - **Insights:** Uncovered actionable insights for optimizing delivery operations and enhancing service quality.
